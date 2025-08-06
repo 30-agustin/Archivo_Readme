@@ -37,9 +37,29 @@ CARACTERISTICAS PRINCIPALES:
 •	Vistas y notificaciones personalizables para administradores de red
 •	Integración con API para automatizar tareas y flujos de trabajo de red
 
- 
+ CÓMO COMENZAR CON NETGUARD PRO
+INSTALACION
+•	Paso 1: Descargar e Instalar
+•	Visita el sitio web oficial de NetGuard Solutions y navega hasta la sección "Descargas".
+•	Selecciona el paquete de instalación adecuado para tu sistema operativo (Windows, Linux, macOS).
+•	Descarga el instalador y sigue las instrucciones para completar la instalación en tu sistema.
 
+•	Paso 2: Configuración Inicial
+•	Después de la instalación, ejecuta la aplicación NetGuard Pro.
+•	El asistente de configuración inicial te guiará a través de la configuración de la red. Puedes elegir configurarla manualmente o importar tu archivo de configuración de red existente (formatos compatibles: .json, .yaml).
+•	Configura las credenciales de administrador para un acceso seguro.
 
+•	Paso 3: Activación de Licencia
+•	En el asistente de configuración, ingresa tu clave de licencia de NetGuard Pro o selecciona "Iniciar prueba gratuita" para activar una versión de prueba de 30 días.
+•	Para licencias por volumen, el sistema te pedirá que especifiques el número de servidores que deseas registrar.
+
+•	Paso 4: Integración de Red
+•	Una vez activado, NetGuard Pro detectará automáticamente los dispositivos conectados y sugerirá configuraciones de optimización basadas en el tamaño y tipo de tu red.
+•	Puedes revisar y ajustar estas recomendaciones o proceder con la configuración predeterminada.
+
+•	Paso 5: Vista General del Panel de Control
+•	Al completar la configuración, el panel de control principal mostrará el tráfico de la red, alertas de seguridad y estadísticas de rendimiento en tiempo real.
+•	Personaliza tu vista añadiendo o eliminando
  
 ESTRATEGIAS DE SEGURIDAD ESENCIALES PARA EL USO DE NETGUARDPRO
 
